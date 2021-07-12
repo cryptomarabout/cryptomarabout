@@ -7,6 +7,9 @@ Doing some hackathons, grants and personal projects to help democratize the bloc
 
 
 ## Projects
+- [EtherScore](https://github.com/cryptomarabout/EtherScore): Ethereum community curation protocol using NFTs based on transaction history
+	- Protocols can build their own reputation model (as ERC-721 NFTs) based on previous user actions
+	- Data sources: The Graph Protocol , Covalent API
 - [Teal Finance](https://teal.finance/#): Off/On-chain blockchain data collection and analysis for the cryptocurrency market 
 - [Covalent](https://www.covalenthq.com/) ambassador program (Alchemist Lab):
 	- [DeFi Vision](http://34.78.251.84/#/): Dashboard providing user wallet balance accross several blockchains, lending/borrowing rates of most used DeFi protocols etc.
