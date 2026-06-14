@@ -1,19 +1,18 @@
 # About Me
- - :man_office_worker: Blockchain R&D engineer :briefcase:
- - :man_technologist: Cryptocurrency miner and trader 	:bar_chart:
- - :globe_with_meridians:	DeFi enthusiast :money_with_wings:
+Blockchain R&D Engineer with experience building blockchain infrastructure, data platforms, and onchain analytics tools.
 
-Doing some hackathons, grants and personal projects to help democratize the blockchain ecosystem.
+Co-founder & former CEO of EtherScore, a Web3 reputation system using badges to represent onchain activity and help identify reputable users.
 
+- [EtherScore](https://etherscore.network/): Onchain reputation system using NFTs, blockchain data indexing, and EAS attestations
+ <img width="600" alt="EtherScore Demo GIF" src="https://github.com/user-attachments/assets/fe5ea2a5-a21a-4d21-a6ae-ef0f417e1ba0" />
+ 
+## Hackathons/Personal Projects
+- [Horyon](https://github.com/cryptomarabout/Horyon): Crypto intelligence platform ingesting news, social media, and podcasts. Uses LLMs + RAG pipelines to generate digests and detect emerging market narratives
+ <img width="600" alt="Horyon - Demo" src="https://github.com/user-attachments/assets/5f27743b-358b-4d95-a2cc-214b49faed46" />
 
-## Projects
-- [EtherScore](https://github.com/cryptomarabout/EtherScore): Ethereum community curation protocol using NFTs based on transaction history
-	- Protocols can build their own reputation model (as ERC-721 NFTs) based on previous user actions
-	- Data sources: The Graph Protocol , Covalent API
-- [Teal Finance](https://teal.finance/#): Off/On-chain blockchain data collection and analysis for the cryptocurrency market 
+- [Transparence](https://github.com/teal-finance/transparence):  Open-source project to improve transparency and risk identification in DeFi (awarded during a hackathon): 
+	- Cross-chain peg solvency analysis across Ethereum, Bitcoin, and BSC, with proof of publication via Tellor oracle
+	- Risk metrics derived from lending protocols
 - [Covalent](https://www.covalenthq.com/) ambassador program (Alchemist Lab):
-	- [DeFi Vision](http://34.78.251.84/#/): Dashboard providing user wallet balance accross several blockchains, lending/borrowing rates of most used DeFi protocols etc.
-- [Transparence](https://github.com/teal-finance/transparence):  Open-source project, awarded during a hackathon, to improve transparency in DeFi.  Helps users to identify risks in DeFi : 
-	- Pegged tokens cross-chain solvability audit done on Ethereum, Bitcoin and Binance Smart Chain + proof of audit publication on Tellor's oracle platform
-	- Metrics computed from lending protocols
+	- DeFi Vision: DeBank-like multi-chain dashboard for balances and DeFi metrics (before mainstream aggregation tools)
 
